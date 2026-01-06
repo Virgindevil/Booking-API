@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\bin\Debug\net10.0\BookingApi.Application.deps.json
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\bin\Debug\net10.0\BookingApi.Application.dll
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\bin\Debug\net10.0\BookingApi.Application.pdb
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\bin\Debug\net10.0\BookingApi.Domain.dll
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\bin\Debug\net10.0\BookingApi.Domain.pdb
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingApi.Application.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingApi.Application.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingApi.Application.AssemblyInfo.cs
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingA.1BF1FF4D.Up2Date
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingApi.Application.dll
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\refint\BookingApi.Application.dll
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\BookingApi.Application.pdb
+C:\Users\User\Downloads\BookingApi\BookingApi.Application\obj\Debug\net10.0\ref\BookingApi.Application.dll
