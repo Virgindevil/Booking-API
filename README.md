@@ -1,4 +1,4 @@
-```markdown
+
 # Booking API
 
 Простое REST API для управления бронированием комнат с разграничением ролей:  
@@ -100,3 +100,4 @@ BookingApi/
 Разработано **[Virgindevil](https://github.com/Virgindevil)**  
 Для учебных целей и портфолио.
 ```
+
