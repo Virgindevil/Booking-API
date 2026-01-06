@@ -99,6 +99,3 @@ BookingApi/
 
 Разработано **[Virgindevil](https://github.com/Virgindevil)**  
 Для учебных целей и портфолио.
-```
-
-
